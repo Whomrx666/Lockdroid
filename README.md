@@ -2,8 +2,8 @@
 ![lockdroid preview](lockdroid.jpg)
 
 <p align="center">
-  <strong>Cyberpunk Folder Lock for Termux – No Root | Python | AES-256 Encryption</strong><br>
-  <em>"Keep your secrets encrypted in the neon shadows." – Mr.X</em>
+  <strong>Cyberpunk Folder Lock for Termux â€“ No Root | Python | AES-256 Encryption</strong><br>
+  <em>"Keep your secrets encrypted in the neon shadows." â€“ Mr.X</em>
 </p>
 
 ## Introduction
@@ -24,17 +24,17 @@ $ python3 lockdroid.py
 ```
 
 ## Features
-- **AES-256-CBC Encryption** – Strong symmetric encryption with PBKDF2 key derivation.
-- **No Root Required** – Works on Termux and standard Linux/macOS/Windows Python.
-- **Compression Before Encryption** – Uses tar.gz to reduce file size and hide structure.
-- **Folder Lock / Unlock** – Lock single folder or all subfolders in a directory.
-- **Unlock Options** – Unlock a single `.lockdroid` file, all files in a directory, or selected files.
-- **Recursive Locked Folder Detection** – Scan directory trees to find folders locked by Lockdroid.
-- **Metadata Recovery** – Restores original folder location automatically via `.meta` file.
-- **Cyberpunk UI** – Neon colors, centered banner, dynamic separators, loading animation.
-- **Interactive Menu** – Easy-to-use numbered menus with submenu support.
-- **Secure Password Input** – Uses `getpass` to hide password during entry.
-- **Help & Documentation** – Built-in help with usage, warnings, and tips.
+- **AES-256-CBC Encryption** â€“ Strong symmetric encryption with PBKDF2 key derivation.
+- **No Root Required** â€“ Works on Termux and standard Linux/macOS/Windows Python.
+- **Compression Before Encryption** â€“ Uses tar.gz to reduce file size and hide structure.
+- **Folder Lock / Unlock** â€“ Lock single folder or all subfolders in a directory.
+- **Unlock Options** â€“ Unlock a single `.lockdroid` file, all files in a directory, or selected files.
+- **Recursive Locked Folder Detection** â€“ Scan directory trees to find folders locked by Lockdroid.
+- **Metadata Recovery** â€“ Restores original folder location automatically via `.meta` file.
+- **Cyberpunk UI** â€“ Neon colors, centered banner, dynamic separators, loading animation.
+- **Interactive Menu** â€“ Easy-to-use numbered menus with submenu support.
+- **Secure Password Input** â€“ Uses `getpass` to hide password during entry.
+- **Help & Documentation** â€“ Built-in help with usage, warnings, and tips.
 
 ## Menu Options
 | #  | Option | Description |
@@ -65,11 +65,11 @@ $ python3 lockdroid.py
    - Choose option `3` to open the unlock submenu.
    - Select the appropriate unlock method (single, all, selected, or detection).
    - Provide the password and follow the prompts.
-5. **Help** – Use option `4` for detailed instructions, examples, warnings, and tips.
-6. **Exit** – Use option `5` to close the program safely.
+5. **Help** â€“ Use option `4` for detailed instructions, examples, warnings, and tips.
+6. **Exit** â€“ Use option `5` to close the program safely.
 
 ## Observation
-This tool is intended for **personal data protection and educational purposes only**. Always back up your important data before locking folders. **There is no password recovery** – if you forget your password, your data cannot be recovered. The author assumes no responsibility for data loss or misuse of this tool.
+This tool is intended for **personal data protection and educational purposes only**. Always back up your important data before locking folders. **There is no password recovery** â€“ if you forget your password, your data cannot be recovered. The author assumes no responsibility for data loss or misuse of this tool.
 
 ### Original Author
 <a href="https://github.com/Whomrx666"><img src="https://img.shields.io/badge/Original-Author-brightgreen.svg" alt=""/></a>
@@ -78,16 +78,16 @@ This tool is intended for **personal data protection and educational purposes on
 
 ## CONNECT WITH ME :
 
-[![Website](https://img.shields.io/badge/WEBSITE-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrx.pages.dev)
-[![Blog](https://img.shields.io/badge/BLOG-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrxhackers.blogspot.com)
-[![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=x)](https://twitter.com/whomrx666)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHATME-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285926601133?text=Halo%2C%20Mr.X)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/whomrx.666)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-CONNECT-red?style=for-the-badge&logo=telegram)](https://t.me/Whomr_X)
-[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail)](mailto:whomrx666@gmail.com)
-[![TikTok](https://img.shields.io/badge/TIKTOK-FOLLOW-red?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@whomr.x)
+[![Website](https://img.shields.io/badge/WEBSITE-VISIT-red?style=for-the-badge&logo=google-chrome)](https://whomrx.pages.dev)<br>
+[![Blog](https://img.shields.io/badge/BLOG-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrxhackers.blogspot.com)<br>
+[![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=x)](https://twitter.com/whomrx666)<br>
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHATME-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285926601133?text=Halo%2C%20Mr.X)<br>
+[![Facebook](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/whomrx.666)<br>
+[![Telegram](https://img.shields.io/badge/TELEGRAM-CONNECT-red?style=for-the-badge&logo=telegram)](https://t.me/Whomr_X)<br>
+[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail)](mailto:whomrx666@gmail.com)<br>
+[![TikTok](https://img.shields.io/badge/TIKTOK-FOLLOW-red?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@whomr.x)<br>
 
-**If you want to donate, click on the button**
+**If you want to donate, click on the button**<br>
 <a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-Lockdroid-yellow?style=for-the-badge&logo=github"></a>
 
 ---
